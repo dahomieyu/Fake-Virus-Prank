@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fake Virus Prank</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Courier New', Courier, monospace;
+      background: #fafafa;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #insta-screen {
+      text-align: center;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    #virus-screen {
+      display: none; /* Keeps it hidden by default */
+      background: red;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      animation: flash 0.5s infinite;
+    }
+
+    @keyframes flash {
+      0% { background: red; }
+      50% { background: black; }
+      100% { background: red; }
+    }
+
+    button {
+      padding: 15px 30px;
+      margin: 10px;
+      font-size: 18px;
+      background: black;
+      color: white;
+      border: 2px solid white;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    #progress-bar {
+      width: 80%;
+      background: black;
+      margin: 20px auto;
+      height: 20px;
+      border: 2px solid white;
+    }
+
+    #progress {
+      width: 50%; /* Static progress bar */
+      height: 100%;
+      background: lime;
+    }
+
+    #warning {
+      font-size: 40px;
+    }
+
+    #timer {
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div id="insta-screen">
+    <h1>Instagram</h1>
+    <p>Welcome to Instagram</p>
+    <button>Start</button>
+  </div>
+  
+  <div id="virus-screen">
+    <h1 id="warning">⚠️ CRITICAL ERROR!</h1>
+    <p id="message">Initializing Virus Attack...</p>
+    <div id="progress-bar">
+      <div id="progress"></div>
+    </div>
+    <h2 id="timer">10</h2>
+    <button>Fix Now</button>
+    <button>Cancel</button>
+  </div>
+</body>
+</html>
