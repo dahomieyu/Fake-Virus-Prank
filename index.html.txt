@@ -1,96 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fake Virus Prank</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Courier New', Courier, monospace;
-      background: #fafafa;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+Hello Ipod. 11/28/25
+story time 
 
-    #insta-screen {
-      text-align: center;
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    #virus-screen {
-      display: none; /* Keeps it hidden by default */
-      background: red;
-      color: white;
-      text-align: center;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      animation: flash 0.5s infinite;
-    }
-
-    @keyframes flash {
-      0% { background: red; }
-      50% { background: black; }
-      100% { background: red; }
-    }
-
-    button {
-      padding: 15px 30px;
-      margin: 10px;
-      font-size: 18px;
-      background: black;
-      color: white;
-      border: 2px solid white;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-
-    #progress-bar {
-      width: 80%;
-      background: black;
-      margin: 20px auto;
-      height: 20px;
-      border: 2px solid white;
-    }
-
-    #progress {
-      width: 50%; /* Static progress bar */
-      height: 100%;
-      background: lime;
-    }
-
-    #warning {
-      font-size: 40px;
-    }
-
-    #timer {
-      font-size: 30px;
-    }
-  </style>
-</head>
-<body>
-  <div id="insta-screen">
-    <h1>Instagram</h1>
-    <p>Welcome to Instagram</p>
-    <button>Start</button>
-  </div>
+It was a gloomy night and in chris and brace’ s house and they were going to go to bed and as the wood creaked, and chris said, “Night,” as the lights flickered off. There was a storm and the sky was but there was no rain… just lightning. Chris noticed that the day had -aura and everyone has bad luck. They were walking outside and they saw the storm and it was strange. Everything was dry as tinder so brace and chris were really scared. They walked outside and went into their car. There was an eerie silence hanging in the air like the last leaf in fall. Finally, it fell. “Is it just me, or are my nerves just tingling?” Said Chris. “Yeah, I feel weird like something… bad is about to happen.” Realizes brace. The engine gaspes on and they drive to Elliott and Jack’s house. Suddenly, on jack’s phone an amber alert went off.𐌕ⶴ𐌄 𐌔ፕꝊዪ𐌌 𐌉ነ ርꝊጮ𐌉ክᏵ 𐌕ዐ ኡ𐌉ረ𐌋 𐌵፱𐌵 it said. “Uuh…” said Elliott. “Wait! I can decode it!” Chris said. ...υυυ lliʞ oɈ ϱnimoɔ ƨi mɿoɈƨ ɘʜɈ “uuh I’ll try again.” ⱦħē ꞩⱦꝋɍᵯ īꞩ ȼꝋᵯīꞥꞡ ⱦꝋ ҟīłł ᵾᵾᵾ… “Almost there…” the storm is coming to kill uuu… “AAAAHAHHAHAHAHHHAAHAAA!!!!!!” Everyone said. “Let’s go outside and into the bugatti.” Jack steps outside and a bolt of lightning comes right in front of him. “ᕓᏵ𐌀𐌕 𐌕𐋅𐌄 𐋅𐌄𐌂𐌊” says jack. Eliott steps outside and runs to the car. As he does, lightning strikes all around him but all miss. They all run to the car as fast as the lightning itself! They all make it to the car. All but one. They are in the car but they see brace in the back seat sizzling, and worse of all, PaSSed out.”BRACE!!!!” Yells Elliott. As the QUAD turbo 8.0 liter W-16 is fired up and roared to a start Chris and friends drift off.”ⱦħē ꞩⱦꝋɍᵯ īꞩ ȼꝋᵯīꞥꞡ ⱦꝋ ҟīłł ᵾᵾᵾ…’’ says brace. “AH what is happeni… r꙲u꙲n꙲ w꙲h꙲i꙲l꙲e꙲ y꙲o꙲u꙲ c꙲a꙲n꙲.꙲   stop control… d꙲o꙲n꙲'꙲t꙲ f꙲i꙲g꙲h꙲t꙲ i꙲t꙲   no stop wh… w█e█ ██e ███ jo█g ██ ███ ███le█  no you cant b … ʞɔɐq ʇɥᵷnoɹq sɐʍ ᴉ  no! I will resist! Kim jong un was trying to control me and also hitler’s zombie.” said brace. As he said that, a bolt of lightning shot down and hit the car with the force of a tornado. “We need to get to the base of this.” Says jack. “Let’s go to North Korea and get to the base of it.” “Alright! That’s done.” says Elliott. “I just booked a flight to South Korea and we’ll drive to North Korea with our gatti” “Alright.” says Chris “Do you think there will also be a strom there too?” “Maybe?” says elliott. “I hope not, because they might cancel the flight and we’ll have to… well, It won’t be to bad because we’ll just take our private jet, but that’ll look suspicious.” says Brace. When they get to the airport the storm is roaring. “They know what we’re doing. We better move fast.” says Jack. As they run through security, the suspense builds up to this moment. They board the plane and they are all worried as it takes off. Brace looks out of the window and the storm is chasing them. All through the plane ride Chris, Elliott, Brace, and Jack all look back and worry because the storm can easily take us out with just a jolt of lightning. As they land, they are very relieved that a lightning bolt didn’t hit them as they just thought that a lightning bolt struck right in front of them. They run to their bugatti and drift passed the north-south Korea border. “This is it.” says Brace. As they go through the forbidden place, they see no normal cars and every house is guarded and there it is. Kim Jong Un and Hitler (the zombie)’s  palace. They are getting strange looks from the guards because no one has cars, and if they did, they are highly authorized, because the internet is not for North Korea. They step inside armed, but not fully armed. As they step inside, a cannon launches brace to the south korean ocean. They go back into the bugatti, and now they are in awesome mode. Elliott steps in, and the cannon tries to launch him, but he catches the roof and rips it a little bit. They all go in and see kim jong un and Hitler planning, and Jack says, “Hey! Did you cause this storm in america?” “Oh, that.  *laughs* yeah. That is so funny! You poor americans.” says Kim Jong Un. “Ja, ihr Amerikaner geht unter.” Says hitler. “No. We will blast you.” says Eliott. Just as he says that, Brace Needum strides in and says, “Ich spreche Deutsch, also versuch mich nicht zu verwirren, Kumpel.” He grabs a bomb and explodes them. Suddenly, a cloud of dry lighning explodes! They see Kim Jong Un and hitler merge and then suddenly, there comes a pure ball of bad energy. It is yellowish black and it radiates a strong dark purple light. It gave of 1000000000000 mSv of radiation and their armor and the radiaition was quickly eating at their armor and then a flash of light rains down and scatters the ball. IT WAS THE KALCOFF GOD !!! AGAIN… 
+ 
   
-  <div id="virus-screen">
-    <h1 id="warning">⚠️ CRITICAL ERROR!</h1>
-    <p id="message">Initializing Virus Attack...</p>
-    <div id="progress-bar">
-      <div id="progress"></div>
-    </div>
-    <h2 id="timer">10</h2>
-    <button>Fix Now</button>
-    <button>Cancel</button>
-  </div>
-</body>
-</html>
+
+  
+                  THE END
+
+
+
